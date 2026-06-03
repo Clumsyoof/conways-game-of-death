@@ -72,7 +72,7 @@ This project requires raylib and its associated libraries.
 ````
 # Clone the repo
 git clone https://github.com/Clumsyoof/conways-game-of-death
-cd conway_battle
+cd conways-game-of-death
 
 # Create and enter build directory
 mkdir build && cd build
