@@ -39,13 +39,21 @@ All rules of conways game of life are followed with an additional rule that cont
 ## Intresting Cases
 
 1.Underpopulation threshold reduced to 1 neighbour from 2 neighbours.Organic looking structures near border that are static.
-![Underpopulation Reduced](screenshots/underpopulation_reduced.png)
+
+<p align="center">
+    <img src="screenshots/underpopulation_reduced.png" width="80%" alt="underpopulation reduced">
+</p>
 
 2.Underpopulation threshold removed.Game oscillates to reach a knarly looking static state.
-![Underpopulation Removed ](screenshots/underpopulation_removed.png)
+
+<p align="center">
+    <img src="screenshots/underpopulation_removed.png" width="80%" alt="underpopulation removed">
+</p>
 
 3.Normal.Looks like fungi in a petri dish.
-![Normal](screenshots/normal.png)
+<p align="center">
+    <img src="screenshots/normal.png" width="80%" alt="normal">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
